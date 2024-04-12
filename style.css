@@ -9,7 +9,7 @@
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
 
-Body:{
+Body{
     background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
@@ -27,19 +27,19 @@ Body:{
     
 }
 
-.titulo-principal){
-text-alin: left;
+.titulo-principal{
+text-align: left;
 width: 100%;
 font-size: 32px;
 }
 
 .titulo-principal span{
-    color;var(--verde);
+    color:var(--verde);
 }
 
 .botao{
     font-family: "Crakra Petch", sans-serif;
-    background-color; var(--botao-inativo);
+    background-color: var(--botao-inativo);
     color: var(--branco);
     display:flex;
     justify-content: center;
